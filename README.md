@@ -19,6 +19,7 @@ The frame that displays the info:
 
 I provided three log files (test1, test2, test3) that contain the test results for the inputs below:
 
-![Screenshot 2023-04-23 211837](https://user-images.githubusercontent.com/115418520/234087772-e670d35c-f277-4f9e-b70e-460f9e3f5bd5.jpg)
+![Screenshot 2023-04-23 213344](https://user-images.githubusercontent.com/115418520/234087895-b636163f-1cad-4a7d-9a43-cb86eb1ad653.jpg)
+
 
 
