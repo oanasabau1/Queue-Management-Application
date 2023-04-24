@@ -10,9 +10,7 @@ The GUI of the application:
 
 ![Screenshot 2023-04-24 211211](https://user-images.githubusercontent.com/115418520/234087462-7bb001be-3edf-411a-bc9f-172915777e15.jpg)
 
-The frame that displays the info:
-
-![Screenshot 2023-04-24 211539](https://user-images.githubusercontent.com/115418520/234087544-ac19d9eb-4415-419d-afa4-b5f37dc7b723.jpg)
+The frame that displays the info at the end of the simulation:
 
 ![Screenshot 2023-04-24 211633](https://user-images.githubusercontent.com/115418520/234087562-d99759d7-4efa-4887-9417-d1912ce2783e.jpg)
 
