@@ -16,7 +16,7 @@ public class SimulationManager implements Runnable {
     public int maxArrivalTime;
     public int numberOfServers;
     public int numberOfClients;
-    SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_TIME;
+    private SelectionPolicy selectionPolicy = SelectionPolicy.SHORTEST_TIME;
     private Scheduler scheduler;
     private SimulationFrame frame;
     private List<Client> generatedClients;
